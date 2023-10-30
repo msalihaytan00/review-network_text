@@ -1,0 +1,48 @@
+-Fetch ve XHR Nedir?
+
+Fetch API, geliştiricilerin web tarayıcılarından sunuculara HTTP istekleri yapmalarına olanak tanıyan modern bir arayüzdür.
+Birçok kişi XMLHttpRequest (XHR) nesnesiyle çalışır, ancak Fetch API, XHR nesnesinin yaptığı tüm görevleri gerçekleştirebilir. 
+JavaScript Fetch API'si de çok daha temiz ve basittir.
+
+-Scripts Nedir ?
+
+Script yani komut dosyası, belirli bir programlama dilinde veya sözdiziminde yazılmış bir dizi talimat veya komuttur.
+Komut dosyaları, görevleri ve tekrar eden işlemleri otomatikleştirmek için kullanılır ve genellikle belirli işlevleri gerçekleştirmek için diğer yazılım veya araçlarla birlikte çalışır.
+
+-CSS(StyleSheets) Nedir?
+
+CSS, açılımı Cascading Style Sheets ve Türkçesi Basamaklı Stil Sayfaları anlamına gelen bir kodlama dilidir.
+Farklı cihazlar ve ekran boyutları için tasarım, düzen ve gösterimdeki çeşitleri dahil olmak üzere web sayfalarında stiller tanımlamak için kullanılır.
+
+-IMG(Images) Nedir?
+
+Belgeleriniz için görüntü(resim) tanımlar.
+
+-CSS Media @media Nedir?
+
+Medya Sorguları ve media
+
+@media kuralı, pencere ve görünüm alanı genişliği, ekran yönü ve çözünürlüğü gibi özellikleri temel alarak, geliştiricilerin farklı ortam türlerine göre stiller tanımlamalarını sağlar.
+
+-Fonts Nedir?
+
+Font, yazı tipi anlamını taşımaktadır.
+Harflerin şekli, boyu, en gibi özelliklerinin bütün olarak ele alan yazı tipleri font nedir sorusunun cevabıdır. Font bahsi geçen özellikler ile ortaya çıkan yazı tipine denilen addır.
+
+-Documents Nedir?
+
+HTML DOM, HTML sistemleri için kullanılan doküman nesne modeline verilen isimdir. HTML bileşenlerinin özelliklerini ve erişme metotlarını tanımlar.
+HTML DOM kısaca, yeni element eklemek ve bu elementleri yönetmek için kullanılır. Türkçesi ise “Belge Nesne Modeli” olarak karşılık bulur.
+
+-WebSockets Nedir?
+
+WebSocket protokolü, TCP tabanlı bağımsız bir protokoldür. HTTP ile tek ilişkisi, HTTP sunucuları tarafından bir Upgrade isteği olarak yorumlanmasıdır.
+WebSocket protokolü, sunucuya ve sunucudan gerçek zamanlı veri aktarımını sağlayarak, tarayıcı ile web sunucusu arasında etkileşimi sağlamaktadır.
+
+-WebAssembly (Wasm) Nedir?
+
+WebAssembly (bazen Wasm olarak da kısaltılır), yürütülebilir programlar için taşınabilir bir ikili kod biçimine karşılık gelen bir metin biçimidir.
+
+-Manifest Nedir?,
+
+Manifest basit bir metin dosyasının yolunu belirtir. Bu metin dosyası önbelleğe yüklenecek dosyaların basit bir listesidir.
